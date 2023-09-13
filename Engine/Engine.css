@@ -1,0 +1,16 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:bisque;
+    background-image: url("")
+}
+h1{
+    color: brown;
+    background-color:blanchedalmond;
+}
+h2{
+    color: rgb(193, 76, 76);
+    background-color: blanchedalmond;
+}
+ul{
+    background-color:blanchedalmond;
+}
