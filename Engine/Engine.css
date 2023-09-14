@@ -1,10 +1,10 @@
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color:bisque;
-    background-image: url("")
+    background-color:rgb(255, 201, 135);
+    background-image: url("../images/2.png")
 }
 h1{
-    color: brown;
+    color: rgb(193, 76, 76);
     background-color:blanchedalmond;
 }
 h2{
